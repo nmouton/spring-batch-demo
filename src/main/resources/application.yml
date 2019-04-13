@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=- 1;DB_CLOSE_ON_EXIT=FALSE
+    username: sa
+    password: ""
+  batch:
+    initialize-schema: always
+    job:
+      enabled: true # run all jobs on startup
+  h2:
+    console:
+      enabled: true
+
+coupa:
+  api:
+    url: ${COUPA_HOST}
+    key: ${COUPA_API_KEY}

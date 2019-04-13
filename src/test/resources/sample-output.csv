@@ -1,0 +1,5 @@
+THL0200024546 - B,2018-12-11T00:00:00+08:00,[InvoiceLine{lineNumber='1', description='PLT#TH Tax implication17', price=214000.00}]
+HKG38032097 - A,2018-10-09T00:00:00+08:00,[InvoiceLine{lineNumber='1', description='xxxxxxxxxx 9/2018', price=6360249.00}]
+1021502 - A,2019-04-09T00:00:00+08:00,[InvoiceLine{lineNumber='1', description='ADVICE XXX XXXXXXXXXXX', price=3930.00}]
+20190305  - A,2019-04-09T00:00:00+08:00,[InvoiceLine{lineNumber='1', description='BR Renewal', price=5950.00}]
+GH2738 - A,2018-12-14T00:00:00+08:00,[InvoiceLine{lineNumber='1', description='GHO#11/18-10/19FinLineIns', price=780103.00}]
